@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tar *)",
+      "Bash(unzip *)"
+    ]
+  },
+  "$version": 4
+}

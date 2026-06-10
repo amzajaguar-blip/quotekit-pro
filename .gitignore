@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.env
+.env.local
+*.db
+*.db-journal
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
+invoicepdf-pro-source.zip
+sale-pack/archives/
+node_modules/
+.next/
+*.db
+.env
+.env.local
